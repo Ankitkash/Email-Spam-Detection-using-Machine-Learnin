@@ -31,22 +31,6 @@ The dataset used in this project contains **5,572 emails** with the following co
 - **Scikit-learn** (Machine learning & evaluation)
 - **TF-IDF Vectorizer** (Feature extraction)
 
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ankitkash/email-spam-detector.git
-   cd email-spam-detector
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter Notebook:
-   ```bash
-   jupyter notebook ML_Project_Spam_Ham.ipynb
-   ```
-
 ## Results
 
 The model achieves a high **accuracy score**, effectively distinguishing spam from non-spam emails.
